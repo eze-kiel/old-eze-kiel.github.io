@@ -31,7 +31,7 @@ twitter_username: ezekiel_0xFF
 github_username:  eze-kiel
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
