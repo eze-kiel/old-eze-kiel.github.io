@@ -10,7 +10,7 @@
   border-bottom-right-radius: 10px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background-color: #48b6c4;
+  background-color: $golang-color;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -36,7 +36,7 @@
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
   color: $grey-color-light;
-  background-color: #48b6c4;
+  background-color: $golang-color;
 
   .nav-trigger {
       display: none;
@@ -264,3 +264,8 @@
     }
   }
 }
+
+@include media-query($on-palm) {
+  .wrapper .site-nav {
+    background-color: $golang-color;
+  }
