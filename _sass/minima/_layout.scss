@@ -39,7 +39,6 @@
   background-color: $golang-color;
 
   .nav-trigger {
-      background-color: $background-color;
       display: none;
   }
 
@@ -70,6 +69,7 @@
     label[for="nav-trigger"] {
       display: block;
       float: right;
+      background-color: $background-color;
       width: 36px;
       height: 36px;
       z-index: 2;
