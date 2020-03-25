@@ -3,4 +3,6 @@
 
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 @import "minima/initialize";
-body{background-color= #ff0000}
+body{
+    background-color: red($color: #e21515)
+}
