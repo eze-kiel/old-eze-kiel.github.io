@@ -20,7 +20,7 @@
 
 title: week-end dev blog
 author: ezekiel
-email: hugblanc69@gmail.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
     Not a front-end dev, not a back-end dev. This is a small website about tech stuff, but not only.
 baseurl: "" # the subpath of your site, e.g. /blog
