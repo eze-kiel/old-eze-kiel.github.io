@@ -22,7 +22,7 @@ title: week-end dev blog
 author: ezekiel
 email: hugblanc69@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Not a front-end dev, not a back-end dev : just a week-end one. This is a small website about tech stuff, but not only.
+    Not a front-end dev, not a back-end dev. This is a small website about tech stuff, but not only.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eze-kiel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ezekiel_0xFF
