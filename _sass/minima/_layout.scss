@@ -34,7 +34,6 @@
 
 .site-nav {
   float: right;
-  font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
@@ -47,6 +46,7 @@
 
   .page-link {
     color: $background-color;
+    font-weight: 300;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
