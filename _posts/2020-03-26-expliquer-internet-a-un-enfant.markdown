@@ -26,8 +26,6 @@ On remarque que *networks* est au pluriel : en effet, Internet est composé d'un
 
 ## Connecter le monde
 
-![Connecter le monde](../pics/1_internet.png)
-
 Différents supports sont utilisés pour connecter les machines entre elles : wi-fi, ethernet, câble coaxial, fibre... Chaque support à ses spécificités, mais lorsque les distances sont très longues (par exemple pour traverser un océan) c'est la fibre qui est utilisée. Vous pouvez retrouver une carte du déploiment mondial de fibre [ici](https://www.submarinecablemap.com/), ainsi qu'un bon article sur le sujet [ici](http://webdoc.rfi.fr/ocean-cables-sous-marins-internet/chapitre-1.html).
 
 Ce sont grâce à ces supports que les données transitent des serveurs jusqu'à votre ordinateur. Mais comment ?
@@ -36,8 +34,6 @@ Ce sont grâce à ces supports que les données transitent des serveurs jusqu'à
 
 Pour faire simple, lorsque l'on cherche à accéder à un serveur, on lui fait une requête contenant ce que l'on veut avoir (page, images, vidéos, posts...).
 Le serveur en question nous répond donc avec le contenu demandé, emballé dans ce que l'on appelle des paquets.
-
-![Requête et réponse](../pics/1_requête_réponse.png)
 
 À chaque demande, il y en a une flopée. Un fois que notre ordinateur reçoit ces paquets, il les ouvre et les assemble, ce qui restitue le contenu auquel nous voulons accéder. Ces paquets parcourent donc une multitude de réseaux entre le serveur et nous. Il est important de comprendre qu'il n'existe pas de lien __direct__ entre un serveur et notre ordinateur. Pour accéder à un serveur, vous devez passer par un certain nombre de réseaux, qui potentiellement voient votre requête et sa réponse.
 
