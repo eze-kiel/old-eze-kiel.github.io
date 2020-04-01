@@ -20,7 +20,7 @@ Lower and upper cases:
 52^8 / 26^8 = 256
 ```
 So the number of possibilities has been multiplied by 256, just by using upper letters in our password, which does not delight our black-hat hacker.
-As the `^n` shows, the difficulty to crack the password increase exponentially. And I am just talking about 8-characters passwords with lower and upper case. If you add numbers, special charaters, and increase the length, your password will be almost unbreakable. Moreover, having single-use passwords reinforce the security, because this work has to be done for each account.
+As the `^n` shows, the difficulty to crack the password increase exponentially. And I am just talking about 8-characters passwords with lower and upper cases. If you add numbers, special charaters, and increase the length, your password will be almost unbreakable. Moreover, having single-use passwords reinforce the security, because this work has to be done for each account.
 
 Obviously, this is just an example. If someone **really** wants your password, he will not spend weeks cracking it...
 
