@@ -33,12 +33,13 @@ It is possible to generalize what I said before in a exponential curve following
 
 ![Risk curve](/pics/risk_curve.png)
 
-The main property of exponential curves is that they are not linear. Therefore, a small movement on the X axis create an important change on the Y axis until the middle of the curve (in this case).
+The main property of exponential curves is that they are not linear. Therefore, a variation on the X axis will not create the same one on the Y axis .
+
 If the majority of people were in the second half of this curve, many security flaws could be avoided.
 
 There is also somthing which I have not told yet: the common passwords. We are in 2020, man is able to walk on the Moon since more than 50 years, and the most hacked password is [123456](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords) (in front of 'password' since 2013!). Just using a passphrase which is not in the top 500 of most hacked passwords is already a huge step into security.
 
-I see risk as 2 components : difficulty, and cost. 
+I see risk as 2 components : difficulty and cost. 
 
 ![Risk scheme](/pics/risk_stickman.png)
 
