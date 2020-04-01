@@ -26,7 +26,7 @@ On remarque que *networks* est au pluriel : en effet, Internet est composé d'un
 
 ## Connecter le monde
 
-![Connecter le monde](/_posts/1_internet.png)
+![Connecter le monde](/_posts/pics/1_internet.png)
 
 Différents supports sont utilisés pour connecter les machines entre elles : wi-fi, ethernet, câble coaxial, fibre... Chaque support à ses spécificités, mais lorsque les distances sont très longues (par exemple pour traverser un océan) c'est la fibre qui est utilisée. Vous pouvez retrouver une carte du déploiment mondial de fibre [ici](https://www.submarinecablemap.com/), ainsi qu'un bon article sur le sujet [ici](http://webdoc.rfi.fr/ocean-cables-sous-marins-internet/chapitre-1.html).
 
