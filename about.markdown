@@ -24,4 +24,6 @@ You can find some of my projects [here](https://github.com/eze-kiel?tab=reposito
 ...
 
 # Hobbies
-Outside IT, I like to hike, ride my bike and climb. I also love to carry heavy things in cold places : I did a solo winter expedition in the Arctic for 20 days, alone and in autonomy in `2020`.
+Outside IT, I like to hike, ride my bike and climb. I also love to carry heavy things in cold places : I did a solo winter expedition in the Arctic for 20 days, alone and in autonomy in 2020.
+
+![Ezekiel in the Arctic](/pics/ezekiel_north.png)
