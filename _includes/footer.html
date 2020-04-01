@@ -8,8 +8,7 @@
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-             <p>Author: {{ site.author | escape }}</p> 
-             <img src="/favicon/favicon-32x32.png" alt="Gophezekiel">
+             <p>Author: {{ site.author | escape }} <img src="/favicon/favicon-32x32.png" alt="Gophezekiel"></p> 
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
