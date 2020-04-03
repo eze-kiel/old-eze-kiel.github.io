@@ -27,3 +27,7 @@ Hopefully, I had my mail password on a physical support (yeah I know, but it sav
 * SAVE YOUR KEYS !
 * Automate backups, and do them more often !
 * Don't be lazy, laziness will stab you in the back when you expect it the least
+
+Those lessons might be obvious of a lot of people. They weren't for me until now. At least I learned something today ! ¯\\_(ツ)_/¯
+
+Take care of yourself !
