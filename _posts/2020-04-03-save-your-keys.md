@@ -15,7 +15,11 @@ So he is here, copying his important folders, all his projects (some of them are
 2 months have passed since Jeff did his last backup. One morning, he wakes up from a good night, goes to have a coffee, and then turn on his computer. Once on the log in page, he enters his password, but nothing happen. Surprised, Jeff tries his password again. Nothing. Not even an indication saying 'wrong password'. He reboots and retries. Still nothing. So Jeff opens a terminal and see that his hard drive is completely fucked up. How ? When ? He has no idea...
 
 After trying everything, he decides to re-install Ubuntu. Even if he looses some programs and stuff, it is not a big deal : he can re-write his codes, and the most important things have been saved two months ago. While Ubuntu is installing, Jeff thinks about everything he will have to do to have the same setup as before. "First, install regolith, then configure thunderbird with my mail account", he thought. "But I need to re-install pass too if I want to log to Thunderbird !". It was at this moment Jeff knew : he fucked up.
+
+
 When he manually saved all his important files, Jeff used the file explorer. So he didn't thought about hidden files. Goodbye GPG and SSH keys ! Goodbye passwords ! Goodbye accounts ! Jeff is left without any password, and ways to retrieve them.
+
+![](https://media.giphy.com/media/OAthVeXHlBnFK/giphy.gif)
 
 ## The lesson
 I'm writing this post because today, I have been Jeff. For an unknown reason, my Ubuntu partition died during the night (I certainly destroyed something yesterday while moving/removing files to clean my /home). And I completely forgot the save my GPG and SSH keys, thus depriving me of my passwords at the same time. Just because I didn't copied a file. Just few bytes, that need less than a millisecond be saved.
