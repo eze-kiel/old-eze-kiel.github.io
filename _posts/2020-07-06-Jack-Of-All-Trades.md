@@ -6,7 +6,7 @@ categories: writeup tryhackme
 ---
 
 # Jack-Of-All-Trades
-Cette room est sur tryhackme.com. Elle est dans la catégorie "Easy".
+Cette room est sur [Try Hack Me](https://tryhackme.com). Elle est dans la catégorie "Easy".
 
 Synopsis de la room : 
 > Jack is a man of a great many talents. The zoo has employed him to capture the penguins due to his years of penguin-wrangling experience, but all is not as it seems... We must stop him! Can you see through his facade of a forgetful old toymaker and bring this lunatic down?
